@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 *.pyo
+
+# Generated test artifacts from inject_test_payload.py
+infected/
+sample.webp
